@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Repository Status
 
-This repository (`ugc-workflow`) is currently empty — it contains no source code, build configuration, or documentation yet. This CLAUDE.md was generated at initialization time (July 2026) and reflects that state.
+This repository (`ugc-workflow`) is currently empty — it contains no source code, build configuration, or documentation yet. Last verified July 31, 2026; this file reflects that state.
 
 ## Guidance for Future Updates
 
