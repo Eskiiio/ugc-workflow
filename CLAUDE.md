@@ -4,7 +4,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Repository Status
 
-This repository (`ugc-workflow`) is currently empty — it contains no source code, build configuration, tests, CI workflows, or documentation other than this file. Last verified: August 2026.
+This repository (`ugc-workflow`) currently contains no source code, tests, CI workflows, or documentation other than this file. Last verified: August 2026.
+
+The only configuration present is `.claude/settings.json`, which registers the `claude-code-skills` plugin marketplace (github.com/alirezarezvani/claude-skills) and enables its skill plugins for Claude Code sessions in this repository.
 
 Because there is no code yet, there are no build/lint/test commands to run and no architecture to describe. Do not assume any tooling, language, or framework exists until it is actually added to the repository.
 
